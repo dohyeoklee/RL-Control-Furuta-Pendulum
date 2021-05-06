@@ -1,10 +1,8 @@
 # RL-Control-Furuta-Pendulum
 
-codes for control of furuta pendulum with reinforcement learning.
+Codes for "Control of Furuta Pendulum with Reinforcement Learning, D Lee, M Usama, DE Chang - ICCAS 2019(19th International Conference on Control, Automation and Systems, 2019)"
 
-swing up for ddpg, balancing for ppo
-
-experiment video link(youtube): https://www.youtube.com/watch?v=a6W6u8iMDU8
+Experiment video link(youtube): https://www.youtube.com/watch?v=a6W6u8iMDU8
 
 ddpg hyperparameter | value  
 ------------ | ------------  
